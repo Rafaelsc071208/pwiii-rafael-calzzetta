@@ -11,6 +11,7 @@ Programação Web III por prof João Siles
   ***
 3. Verificar se está funcionando
 O Herd roda em segundo plano
+***
 Ele já configura automaticamente:
  -PHP
  -Nginx
