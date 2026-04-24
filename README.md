@@ -13,6 +13,6 @@ Programação Web III por prof João Siles
 O Herd roda em segundo plano
 ***
 Ele já configura automaticamente:
- -PHP
- -Nginx
- -DNS local (.test)
+ - PHP
+ - Nginx
+ - DNS local (.test)
